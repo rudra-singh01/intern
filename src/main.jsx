@@ -8,7 +8,7 @@ import About from './components/About/About.jsx'
 import Academics from './components/Academics/Academics.jsx'
 import Admissions from './components/Admissions/Admissions.jsx'
 import Faculty from './components/Faculty/Faculty.jsx'
-import Students from './Students/Students.jsx'
+import Students from './components/Students/Students.jsx'
 import Gallery from './components/Gallery/Gallery.jsx'
 import Contact from './components/Contact/Contact.jsx'
 
