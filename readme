@@ -1,0 +1,20 @@
+▪️>School Website Project
+About the Project
+This project is a comprehensive school website, specifically designed as an internship project. It showcases modern web development practices using React and Tailwind CSS to create a responsive and user-friendly interface.
+
+▪️>Technologies Used
+React: A JavaScript library for building user interfaces.
+Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+Getting Started
+Follow these steps to get the project up and running on your local machine:
+
+▪️>Install Dependencies: Install the necessary packages by running the following command:
+npm install
+
+▪️>Start the Development Server: Launch the development server to see your project in action:
+npm run dev
+
+
+▪️>Key Features
+Responsive Design: Optimized for various screen sizes using Tailwind CSS.
+Modern UI Components: Built with reusable React components.
